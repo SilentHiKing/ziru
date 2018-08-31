@@ -1,10 +1,14 @@
 # ziru
 自如房源数据提取
 # 程序入口
+1. 单个城市  
 ./ziru_spider.py  
+2. 所有城市  
 ./more/ziru_all_spider.py
 # 数据存储位置
+1. 原始数据(json字符串)    
 ./data/  
+2. 图片显示数据   
 ./pic/
 # 注意
 ##### pyplot中文乱码问题   
