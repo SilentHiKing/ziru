@@ -1,13 +1,13 @@
 # ziru
 自如房源数据提取
 # 程序入口
-./ziru_spider.py
+./ziru_spider.py  
 ./more/ziru_all_spider.py
 # 数据存储位置
-./data/
+./data/  
 ./pic/
 # 注意
-#####pyplot中文乱码问题   
+##### pyplot中文乱码问题   
 1. 导入字体文件  
 * 根据import matplotlib.pyplot找到matplotlib文件夹  
 * 进入./mpl-data/fonts/ttf目录,放入可以识别中文的字体,如SimSun.ttf  
